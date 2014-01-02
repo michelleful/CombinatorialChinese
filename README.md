@@ -13,3 +13,8 @@ What's special about it?
 3. *Constant reinforcement.* Whenever a new character/word is introduced, multiple related exercises help to cement it in the learner's brain. It is reused in future exercises according to a spaced repetition schedule.
 4. *Tone training.* Tones are one of the hardest things for a Mandarin learner to grasp. When learners start off not perceiving and memorising tones of the words they learn, they wind up mispronouncing the most basic and most frequent words even at an advanced stage. Tone training is built in from the very beginning with two tools. First, mnemonics help to remember which tone goes with which character. Second, high variability phonetic training (HVPT) is built into the exercises, one of the most successful ways to train language learners to grasp phonemic differences not present in their own language. 
 
+Who's working on this?
+======================
+- Michelle Fullwood
+
+If you like these ideas and would like to discuss them, get in touch at michelle.fullwood@gmail.com.
