@@ -1,0 +1,8 @@
+Django==1.6.1
+SQLAlchemy==0.6.9
+South==0.8.4
+argparse==1.2.1
+cjklib==0.3.2
+distribute==0.6.34
+django-sortedm2m==0.6.0
+wsgiref==0.1.2
