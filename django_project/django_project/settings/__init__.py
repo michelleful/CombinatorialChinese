@@ -39,7 +39,7 @@ DEFAULT_APPS = (
 )
 
 THIRD_PARTY_APPS = (
-
+    'sortedm2m',
 )
 
 LOCAL_APPS = (
